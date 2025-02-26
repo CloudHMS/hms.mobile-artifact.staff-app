@@ -1,7 +1,7 @@
-# Staff App - APK Distribution
+# Staff App Classic (Flutter) - APK Distribution
 
 ## 📌 Overview
-This repository is **only for distributing** the APK file of the **Staff App** to customers via a public link. It does **not** contain any source code or sensitive information.
+This repository is **only for distributing** the APK file of the **Staff App Classic** to customers via a public link. It does **not** contain any source code or sensitive information.
 
 ## 📥 Download the Latest APK
 🔗 **[Download Latest APK](https://github.com/CloudHMS/hms.mobile-artifact.staff-app/releases/latest)**
@@ -12,7 +12,7 @@ This repository is **only for distributing** the APK file of the **Staff App** t
 3. If prompted, allow installation from unknown sources in your device settings.
 
 ## 🚀 App Information
-- **App Name**: Staff App
+- **App Name**: Staff App Classic
 - **Latest Version**: Check on [Releases](https://github.com/CloudHMS/hms.mobile-artifact.staff-app/releases)
 - **Supported OS**: Android 8.0+ (Oreo and above)
 
